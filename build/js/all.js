@@ -1,0 +1,1 @@
+alert("some text"),alert("oather test");
